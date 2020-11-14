@@ -487,8 +487,8 @@ var personaMapRoyal = {
     "Black Frost": {
         "special": true,
         "inherits": "almighty",
-        "item": "Naraku Whip",
-        "itemr": "Naraku Whip R",
+        "item": "Naraka Whip",
+        "itemr": "Naraka Whip R",
         "level": 67,
         "arcana": "Fool",
         "elems": ["-", "-", "rp", "ab", "-", "-", "-", "nu", "-", "rp"],
